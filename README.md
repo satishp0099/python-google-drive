@@ -4,7 +4,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 # python-google-drive
 Simple python wrapper for Google drive API.
 
-Add the credentials.json file into the Credential folder of the working directory.
+Add the credentials.json file into the Credential folder inside the working directory.
 
 # Getting started
 
